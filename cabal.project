@@ -1,0 +1,9 @@
+packages: .
+
+source-repository-package
+  type: git
+  location: <redacted>
+  tag: <redacted>
+  subdir:
+    schwarma-aeson
+    schwarma-core
